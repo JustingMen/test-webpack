@@ -1,0 +1,20 @@
+{
+  "name": "test-webpack",
+  "version": "1.0.0",
+  "description": "test webpack to vue\r # 第一步\r ## 初始化项目\r   1、在命令行执行 npm init 然后一路回车即可，主要是生成一些项目的基本配置。最后生成一个 package.json 文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustingMen/test-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustingMen/test-webpack/issues"
+  },
+  "homepage": "https://github.com/JustingMen/test-webpack#readme"
+}
